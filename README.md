@@ -1,1 +1,2 @@
-# hw_mm21
+# Awesome homework
+Variant #2
